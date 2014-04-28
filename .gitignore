@@ -1,0 +1,5 @@
+.idea
+.sass-cache
+build
+node_modules
+atlassian-ide-plugin.xml
